@@ -20,7 +20,7 @@
   {
   	"remote":      "github",
     "repository": "Hexa-Project-Device/android_vendor_samsung_mondrianwifi",
-    "target_path": "vendor/samsung/mondrianwifi/",
+    "target_path": "vendor/samsung/mondrianwifi",
 	"revision":      "cm-13.0"
   }
 ]
