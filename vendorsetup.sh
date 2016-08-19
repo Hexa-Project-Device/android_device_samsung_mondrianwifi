@@ -1,2 +1,2 @@
 add_lunch_combo cm_mondrianwifi-userdebug
-
+add_lunch_combo kdp_mondrianwifi-userdebug
