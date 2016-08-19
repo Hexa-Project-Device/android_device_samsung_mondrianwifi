@@ -3,24 +3,24 @@
   	"remote":      "github",
     "repository": "CyanogenMod/android_external_sony_boringssl-compat",
     "target_path": "external/sony/boringssl-compat"
-	"branch":      "cm-13.0"
+	"revision":      "cm-13.0"
   },
   {
   	"remote":      "github",
     "repository": "CyanogenMod/android_device_samsung_msm8974-common",
     "target_path": "device/samsung/msm8974-common"
-	"branch":      "cm-13.0"
+	"revision":      "cm-13.0"
   },
   {
   	"remote":      "github",
     "repository": "CyanogenMod/android_kernel_samsung_mondrianwifi",
     "target_path": "kernel/samsung/mondrianwifi"
-	"branch":      "cm-13.0"
+	"revision":      "cm-13.0"
   },
   {
   	"remote":      "github",
     "repository": "Hexa-Project-Device/android_vendor_samsung_mondrianwifi",
     "target_path": "vendor/samsung/mondrianwifi/"
-	"branch":      "cm-13.0"
+	"revision":      "cm-13.0"
   }
 ]
