@@ -13,7 +13,8 @@ LOCAL_SHARED_LIBRARIES := \
     libutils \
     libcutils \
     libgps.utils \
-    libdl
+    libdl \
+    libandroid_runtime
 
 LOCAL_SRC_FILES += \
     MsgTask.cpp \

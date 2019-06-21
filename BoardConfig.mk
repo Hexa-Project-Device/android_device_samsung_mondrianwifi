@@ -32,6 +32,7 @@ BOARD_MKBOOTIMG_ARGS := --ramdisk_offset 0x02900000 --tags_offset 0x02700000
 TARGET_KERNEL_CONFIG := mondrian_defconfig
 TARGET_KERNEL_SOURCE := kernel/samsung/mondrianwifi
 TARGET_KERNEL_CROSS_COMPILE_PREFIX := arm-linux-androideabi-
+BOARD_KERNEL_IMAGE_NAME := zImage
 
 # Audio
 BOARD_HAVE_NEW_QCOM_CSDCLIENT := true
