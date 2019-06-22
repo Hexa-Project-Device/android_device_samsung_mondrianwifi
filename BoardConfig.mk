@@ -33,6 +33,7 @@ TARGET_KERNEL_CONFIG := mondrian_defconfig
 TARGET_KERNEL_SOURCE := kernel/samsung/mondrianwifi
 TARGET_KERNEL_CROSS_COMPILE_PREFIX := arm-linux-androideabi-
 BOARD_KERNEL_IMAGE_NAME := zImage
+LZMA_RAMDISK_TARGETS := boot,recovery 
 
 # Audio
 BOARD_HAVE_NEW_QCOM_CSDCLIENT := true
