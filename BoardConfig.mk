@@ -64,7 +64,7 @@ TARGET_NO_RPC := true
 TARGET_GPS_HAL_PATH := device/samsung/mondrianwifi/gps
 
 # Hardware
-BOARD_HARDWARE_CLASS += device/samsung/mondrianwifi/cmhw
+#BOARD_HARDWARE_CLASS += device/samsung/mondrianwifi/cmhw
 
 # Graphics
 TARGET_HAVE_NEW_GRALLOC := true
